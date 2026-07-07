@@ -6,7 +6,7 @@ This project focuses on predicting stock market trends using two machine learnin
 
 ## Table of Contents
 
-- Project Description
+- Project Description 
 - Features
 - Data Collection and Preprocessing
 - Modeling and Prediction
