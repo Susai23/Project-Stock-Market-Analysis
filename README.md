@@ -4,6 +4,19 @@
 
 This project focuses on predicting stock market trends using two machine learning models: Long Short-Term Memory (LSTM) networks and Prophet. The project is based on historical stock price data from Barclays PLC, covering the period from 2004 to 2024. The aim is to evaluate the effectiveness of LSTM and Prophet models in forecasting future stock prices.
 
+## Repository Structure
+
+```
+notebooks/
+  final/          # SM_LSTM_8.ipynb - the final, up-to-date notebook
+  versions/       # Earlier iterations of the notebook, kept for reference
+docs/             # Project and data management planning documents
+```
+
+- **`notebooks/final/SM_LSTM_8.ipynb`** is the final version of the analysis and the one to run/review.
+- **`notebooks/versions/`** contains prior iterations (`SM_LSTM (1).ipynb`, `SM_LSTM_3.ipynb` through `SM_LSTM_7.ipynb`, and `sm_lstm_2.py`), preserved for history and comparison.
+- **`docs/`** contains the project and data management plan (`.xlsx` and `.pdf`).
+
 ## Table of Contents
 
 - Project Description  
